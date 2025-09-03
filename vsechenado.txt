@@ -1,2 +1,2 @@
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/Snowy-Fluffy/zapret.installer/refs/heads/main/installer.sh)"
-yay -S yandex-music discord google-chrome ayugram-desktop-bin cassette dolphin flatpak steam spotify spicetify-cli gnome-disks
+yay -S yandex-music discord google-chrome ayugram-desktop-bin cassette dolphin flatpak steam gnome-disks
